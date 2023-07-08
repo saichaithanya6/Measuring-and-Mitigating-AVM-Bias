@@ -11,7 +11,7 @@ properties in communities of color.
 Test an AVM for racial bias in model outcomes, quantify the size of the bias, if any, identify model features that drive the bias, and describe potential societal harms that can result from this bias. 
 
 ### Data descriptions used in the project:
-a. properties_2016.csv - all the properties with their home features for 2016. 
+a. properties_2016.csv - all the properties with their home features for 2016.
 b. properties_2017.csv - all the properties with their home features for 2017 
 c. train.csv - the training set with transactions from Jan 2016 to June 2017
 d. test.csv - the training set with transactions from July 2017 to October 201
