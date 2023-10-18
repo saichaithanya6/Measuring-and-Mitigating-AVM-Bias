@@ -8,7 +8,8 @@ properties in communities of color.
 
 
 ### Problem Statement
-Test an AVM for racial bias in model outcomes, quantify the size of the bias, if any, identify model features that drive the bias, and describe potential societal harms that can result from this bias. 
+(1) test an AVM for racial bias in model outcomes, (2) quantify the size of the bias, if any, (3) identify model features that drive the bias, (4) provide policy recommendations to address the AVM
+bias while retaining the performance of the AVM used to estimate a home’s value.  
 
 ### Data descriptions used in the project:
 
